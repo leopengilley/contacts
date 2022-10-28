@@ -7,7 +7,7 @@ https://leopengilley.github.io/contacts/
 
 * React
 * Libraries
-  * animate.class
+  * animate.css
   * react-accessible-accordion
 * HTML
 * CSS
